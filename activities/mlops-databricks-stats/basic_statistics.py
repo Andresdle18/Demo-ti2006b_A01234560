@@ -8,7 +8,7 @@
 # ///
 # MAGIC %md
 # MAGIC # Estadística básica de montos por canal
-# MAGIC TI2006B · Matrícula: A01234560
+# MAGIC TI2006B · Matrícula: A01234560 · Edición hecha en GitHub para probar el Pull.
 # MAGIC
 # MAGIC **Pregunta:** ¿Cómo varían los montos de transacción entre canales?
 # MAGIC
